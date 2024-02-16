@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  .game-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(47, 45, 45);
+  }
+  
+  #player {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 20px;
+    background-color: rgb(52, 39, 39);
+  }
+  
+  .invader {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    position: absolute;
+  }
+  
+  .bullet {
+    width: 3px;
+    height: 10px;
+    background-color: red;
+    position: absolute;
+  }
+  
