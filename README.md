@@ -14,11 +14,11 @@ Move the player ship left: ArrowLeft
 Move the player ship right: ArrowRight
 Shoot bullets: Spacebar
 
-#Screenshot
+## Screenshot
 
 <img width="1436" alt="Screenshot 2024-02-17 at 10 42 44 AM" src="https://github.com/BNDNK/space-invaders/assets/112815598/ac896e3a-393c-4c1d-bc50-7433e778fad8">
 
-
+## Description
 
 The player's ship, invaders, and bullets are created and manipulated dynamically using JavaScript.
 The game   creates new invaders and moves them down the screen.
@@ -28,8 +28,8 @@ The game ends when an invader collides with the player's ship.
 A simple alert message displays "Game Over!" when the game ends.
 
 
-Credits:
+## Credits:
 [BNDNK] There was no Tutor.
 
-License:
+## License:
 This project is licensed under the MIT License. 
