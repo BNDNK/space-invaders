@@ -1,5 +1,5 @@
-##Game README
-This document contains JavaScript code for a simple space invaders game implemented in the browser using HTML, CSS, and JavaScript.
+# Game README
+This document contains JavaScript code for a  space invaders game using HTML, CSS, and JavaScript.
 
 ## Instructions:
 Clone Repository:
